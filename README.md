@@ -24,12 +24,6 @@ I'm a passionate frontend and full-stack developer with experience building mode
 
 ---
 
-## 📊 GitHub Stats:
-
-![Syed Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Hasan-Mujtaba&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Pinned Projects:
 > (You can manually pin them from the **Repositories** section on your GitHub profile)
 
